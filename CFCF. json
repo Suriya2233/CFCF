@@ -4,17 +4,17 @@
 
 
 {
-         "name": "01-AIS-OPENLAND-VIP",
+         "name": "AIS-OPENLAND-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/openland-ais.ovpn"
       }
 ,
 {
-         "name": "01-DTAC-OPENLAND-VIP",
+         "name": "DTAC-OPENLAND-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/openland-dtac.ovpn"
       }
 ,
 {
-         "name": "01-TRUE-OPENLAND-VIP",
+         "name": "TRUE-OPENLAND-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/openland-true.ovpn"
       }
 ,
@@ -115,5 +115,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":5
+   "version":6
 }

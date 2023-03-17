@@ -4,30 +4,34 @@
 
 
 {
-         "name": "FREE-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/TH-AIS.ovpn"
+         "name": "openland-vip-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/openland-ais.ovpn"
       }
 ,
 {
-         "name": "FREE-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/TH-DTAC.ovpn"
+         "name": "openland-vip-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/openland-dtac.ovpn"
       }
 ,
 {
-         "name": "FREE-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/TH-TRUE.ovpn"
+         "name": "openland-vip-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/openland-true.ovpn"
       }
-
 
 
    ],
 "message":"
+🇹🇭VIP-OPENLAND-TH
+(ใช้งานทั่วไป+เกมส์ที่ไม่ใช้เน็ตมาก)
+📣รองรับการใช้งานทุกเครือข่าย
+(AIS/DTAC/TRUE)
+1วัน=1.44 บาท
+7วัน=9.44 บาท
+15วัน=24 บาท
+30วัน=44 บาท
 
-❤️กดเพิ่มเวลาก่อนใช้งานน้า
-❤️ขิให้สนุกกับการใช้งานนะครับ
 
-
-\n\nเวอร์ชั่นไฟล์:1",
+\n\nUpdate:1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }

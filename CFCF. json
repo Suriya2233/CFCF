@@ -17,11 +17,57 @@
          "name": "TRUE-OPENLAND-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/openland-true.ovpn"
       }
+,
+{
+         "name": "01-AIS-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-AIS-01.ovpn"
+      }
+,
+{
+         "name": "01-DTAC-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-DTAC-01.ovpn"
+      }
+,
+{
+         "name": "01-TRUE-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-TRUE-01.ovpn"
+      }
+,
+{
+         "name": "02-AIS-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-AIS-02.ovpn"
+      }
+,
+{
+         "name": "02-DTAC-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-DTAC-02.ovpn"
+      }
+,
+{
+         "name": "02-TRUE-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-TRUE-02.ovpn"
+      }
+,
+{
+         "name": "03-AIS-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-AIS-03.ovpn"
+      }
+,
+{
+         "name": "03-DTAC-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-DTAC-03.ovpn"
+      }
+,
+{
+         "name": "03-TRUE-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/FREE-TH-TRUE-03.ovpn"
+      }
 
 
    ],
 "message":"
-⚠️ใช้งานได้ตลอด24ชั่วโมง
+⚠️รีเซิฟร์เวอร์เวลา08:00น.ทุกๆวันน้า
+(อาจทำให้เชื่อมต่อไม่ได้0-30วินาทีน้า)
 
 🇹🇭VIP-OPENLAND-TH
 (ใช้งานทั่วไป+เกมส์ที่ไม่ใช้เน็ตมาก)
@@ -54,5 +100,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":7
+   "version":8
 }

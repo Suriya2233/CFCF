@@ -17,36 +17,6 @@
          "name": "TRUE-GAME-OPENLAND-TH-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-GAME-OPENLAND-TH-01-TRUE.ovpn"
       }
-,
-{
-         "name": "AIS-IDC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-IDC-OPENLAND-TH-01-AIS.ovpn"
-      }
-,
-{
-         "name": "DTAC-IDC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-IDC-OPENLAND-TH-01-DTAC.ovpn"
-      }
-,
-{
-         "name": "TRUE-IDC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-IDC-OPENLAND-TH-01-TRUE.ovpn"
-      }
-,
-{
-         "name": "AIS-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-OPENLAND-TH-01-AIS.ovpn"
-      }
-,
-{
-         "name": "DTAC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-OPENLAND-TH-01-DTAC.ovpn"
-      }
-,
-{
-         "name": "TRUE-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-OPENLAND-TH-01-TRUE.ovpn"
-      }
 
 
    ],
@@ -61,5 +31,5 @@ https://thvpnzx.shop
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":16
+   "version":17
 }

@@ -14,8 +14,68 @@
       }
 ,
 {
-         "name": "TRUE-GAME-OPENLAND-TH-VIP",
+         "name": "TRUE-GAME-OPENLAND-TH-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-GAME-OPENLAND-TH-01-TRUE.ovpn"
+      }
+,
+{
+         "name": "AIS-GAME-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-AIS.ovpn"
+      }
+,
+{
+         "name": "DTAC-GAME-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-DTAC.ovpn"
+      }
+,
+{
+         "name": "TRUE-GAME-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-TRUE.ovpn"
+      }
+,
+{
+         "name": "AIS-GAME-02-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-AIS.ovpn"
+      }
+,
+{
+         "name": "DTAC-GAME-02-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-DTAC.ovpn"
+      }
+,
+{
+         "name": "TRUE-GAME-02-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-TRUE.ovpn"
+      }
+,
+{
+         "name": "AIS-GAME-03-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-AIS.ovpn"
+      }
+,
+{
+         "name": "DTAC-GAME-03-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-DTAC.ovpn"
+      }
+,
+{
+         "name": "TRUE-GAME-03-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-TRUE.ovpn"
+      }
+,
+{
+         "name": "AIS-GAME-04-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-AIS.ovpn"
+      }
+,
+{
+         "name": "DTAC-GAME-04-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-DTAC.ovpn"
+      }
+,
+{
+         "name": "TRUE-GAME-04-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ARCER%20EZ-TRUE.ovpn"
       }
 
 
@@ -31,5 +91,5 @@ https://thvpnzx.shop
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":17
+   "version":18
 }

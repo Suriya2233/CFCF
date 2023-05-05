@@ -5,17 +5,17 @@
 
 {
          "name": "AIS-GAME-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-GAME-OPENLAND-TH-01-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAME-AIS.ovpn"
       }
 ,
 {
          "name": "DTAC-GAME-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-GAME-OPENLAND-TH-01-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAME-DTAC.ovpn"
       }
 ,
 {
          "name": "TRUE-GAME-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-GAME-OPENLAND-TH-01-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAME-TRUE.ovpn"
       }
 ,
 {
@@ -96,8 +96,8 @@
 
    ],
 "message":"
-📱ติดต่อแอดมิน
-https://www.facebook.com/ANOFZX
+เว็บเช่าvpn
+https://thvpnzx.shop
 
 (ไทยแท้100%)
 🌍ใช้งานทั่วไป
@@ -120,5 +120,5 @@ https://www.facebook.com/ANOFZX
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":21
+   "version":22
 }

@@ -4,17 +4,17 @@
 
 
 {
-         "name": "AIS-GAME-TH-VIP",
+         "name": "AIS-GAME-Thailand-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAME-AIS.ovpn"
       }
 ,
 {
-         "name": "DTAC-GAME-TH-VIP",
+         "name": "DTAC-GAME-Thailand-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAME-DTAC.ovpn"
       }
 ,
 {
-         "name": "TRUE-GAME-TH-VIP",
+         "name": "TRUE-GAME-Thailand-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAME-TRUE.ovpn"
       }
 ,
@@ -94,37 +94,37 @@
       }
 ,
 {
-         "name": "AIS-Singapore-01-TH-FREE",
+         "name": "AIS-Singapore-01-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
       }
 ,
 {
-         "name": "DTAC-Singapore-01-TH-FREE",
+         "name": "DTAC-Singapore-01-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-th-d.ovpn"
       }
 ,
 {
-         "name": "TRUE-Singapore-01-TH-FREE",
+         "name": "TRUE-Singapore-01-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
       }
 ,
 {
-         "name": "AIS-Singapore-02-TH-FREE",
+         "name": "AIS-Singapore-02-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
       }
 ,
 {
-         "name": "DTAC-Singapore-02-TH-FREE",
+         "name": "DTAC-Singapore-02-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-th-d.ovpn"
       }
 ,
 {
-         "name": "TRUE-Singapore-02-TH-FREE",
+         "name": "TRUE-Singapore-02-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
       }
 ,
 {
-         "name": "AIS-Singapore-03-TH-FREE",
+         "name": "AIS-Singapore-03-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
       }
 ,
@@ -134,47 +134,121 @@
       }
 ,
 {
-         "name": "TRUE-Singapore-03-TH-FREE",
+         "name": "TRUE-Singapore-03-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
       }
 ,
 {
-         "name": "AIS-Singapore-04-TH-FREE",
+         "name": "AIS-Singapore-04-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
       }
 ,
 {
-         "name": "DTAC-Singapore-04-TH-FREE",
+         "name": "DTAC-Singapore-04-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-th-d.ovpn"
       }
 ,
 {
-         "name": "TRUE-Singapore-04-TH-FREE",
+         "name": "TRUE-Singapore-04-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
       }
 ,
 {
-         "name": "AIS-Singapore-05-TH-FREE",
+         "name": "AIS-Singapore-05-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
       }
 ,
 {
-         "name": "DTAC-Singapore-05-TH-FREE",
+         "name": "DTAC-Singapore-05-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-d.ovpn"
       }
 ,
 {
-         "name": "TRUE-Singapore-05-TH-FREE",
+         "name": "TRUE-Singapore-05-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
+      }
+,
+{
+         "name": "AIS-OVH-Singapore-01-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OVH-Singapore-01-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OVH-Singapore-01-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-t.ovpn"
+      }
+,
+{
+         "name": "AIS-OVH-Singapore-02-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OVH-Singapore-02-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OVH-Singapore-02-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-t.ovpn"
+      }
+,
+{
+         "name": "AIS-OVH-Singapore-03-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OVH-Singapore-03-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OVH-Singapore-03-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-t.ovpn"
+      }
+,
+{
+         "name": "AIS-OVH-Singapore-04-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OVH-Singapore-04-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OVH-Singapore-04-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-t.ovpn"
+      }
+,
+{
+         "name": "AIS-OVH-Singapore-05-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OVH-Singapore-05-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OVH-Singapore-05-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-t.ovpn"
       }
 
 
    ],
 "message":"
-เว็บเช่าvpn
-https://thvpnzx.shop
+📱ติดต่อแอดมิน
+https://www.facebook.com/ANOFZX
 
-(ไทยแท้100%)
 🌍ใช้งานทั่วไป
 🎥ดูหนัง ฟังเพลง
 🎮ใช้เล่นเกมส์
@@ -195,5 +269,5 @@ https://thvpnzx.shop
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":24
+   "version":25
 }

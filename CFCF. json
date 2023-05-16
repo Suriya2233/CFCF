@@ -94,81 +94,6 @@
       }
 ,
 {
-         "name": "AIS-Singapore-01-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-Singapore-01-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-th-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-Singapore-01-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
-      }
-,
-{
-         "name": "AIS-Singapore-02-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-Singapore-02-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-th-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-Singapore-02-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
-      }
-,
-{
-         "name": "AIS-Singapore-03-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-Singapore-03-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-th-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-Singapore-03-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
-      }
-,
-{
-         "name": "AIS-Singapore-04-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-Singapore-04-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-th-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-Singapore-04-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
-      }
-,
-{
-         "name": "AIS-Singapore-05-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-Singapore-05-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-Singapore-05-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-sg-t.ovpn"
-      }
-,
-{
          "name": "AIS-OVH-Singapore-01-SG-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-a.ovpn"
       }
@@ -246,7 +171,7 @@
 
    ],
 "message":"
-🌍แก้ไขให้แล้วนะครับ 14/พ.ค./2566
+🌍แก้ไขให้แล้วนะครับ 16/พ.ค./2566
 -เซิร์ฟเวอร์ sg มีปัญหา
 
 *อย่าลืมกดอัปเดท ที่ล่างสุดด้านขวามือน้า
@@ -273,5 +198,5 @@ https://www.facebook.com/ANOFZX
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":26
+   "version":27
 }

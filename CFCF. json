@@ -182,32 +182,69 @@
          "name": "TRUE-GAMING-Thailand-01-TH-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-T.ovpn"
       }
+,
+{
+         "name": "AIS-INET-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/INET-A.ovpn"
+      }
+,
+{
+         "name": "DTAC-INET-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/INET-D.ovpn"
+      }
+,
+{
+         "name": "TRUE-INET-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/INET-T.ovpn"
+      }
+,
+{
+         "name": "AIS-IRIS-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/IRIS-A.ovpn"
+      }
+,
+{
+         "name": "DTAC-IRIS-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/IRIS-D.ovpn"
+      }
+,
+{
+         "name": "TRUE-IRIS-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/IRIS-T.ovpn"
+      }
 
 
    ],
 "message":"
 🧡พบการอัปเดตใหม่คะ
-📅18/พ.ค.2566
+-วันที่ทำการ20/พ.ค.2566
 
 🔴ระบบได้ตรวจสอบ
--ความผิดพลาดทางเซิร์ฟเวอร์
-
+-เพิ่มเซิร์ฟเวอร์
+-INET-Thailand(ใช้เล่นเกม)(ปิงต่ำ)
+-IRIS-Thailand(ใช้เล่นเกม)(ปิงต่ำ)
 💻ทางเราได้ทำการแก้ไขให้แล้วนะคะ
-🧡ขอให้สนุกกับการใช้งานนะคะ
+
 
 🚀รายละเอียดเซิร์ฟเวอร์
 -GAME-Thailand-TH-VIP(เช่า)
 -OVH-Singapore-SG-FREE(ฟรี)
 -Thailand-TH-FREE(ฟรี)
-GAMING-Thailand-TH-FREE(ฟรี)
+-GAMING-Thailand-TH-FREE(ฟรี)
+-INET-Thailand-TH-FREE(ฟรี)
+-IRIS-Thailand-TH-FREE(ฟรี)
 
 📊สถานะการทำงาน
--GAME-Thailand-TH-VIP(ใช้เล่นเกม)
--OVH-Singapore-SG-FREE(ใช้งานทั่วไป+ดูหนัง)
--Thailand-TH-FREE(ใช้เล่นเกม)
-GAMING-Thailand-TH-FREE(ใช้เล่นเกม)
+-GAME-Thailand-TH-VIP(ใช้เล่นเกม)(ปิงต่ำ)
+-OVH-Singapore-SG-FREE(ใช้งานทั่วไป+ดูหนัง)(ปิงสูง)
+-Thailand-TH-FREE(ใช้เล่นเกม)(ปิงต่ำ)
+-GAMING-Thailand-TH-FREE(ใช้เล่นเกม)(ปิงต่ำ)
+-INET-Thailand-TH-FREE(ใช้เล่นเกม)(ปิงต่ำ)
+-IRIS-Thailand-TH-FREE(ใช้เล่นเกม)(ปิงต่ำ)
+
+🧡ขอให้สนุกกับการใช้งานนะคะ
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":29
+   "version":30
 }

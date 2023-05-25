@@ -59,28 +59,52 @@
       }
 ,
 {
-         "name": "TRUE-INET-Thailand-01-TH-FREE",
+         "name": "TRUE-RCADYIDC-Thailand-01-TH-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/INET-T.ovpn"
+      }
+,
+{
+         "name": "AIS-RCADYIDC-Thailand-01-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-RCADYIDC-AIS.ovpn"
+      }
+,
+{
+         "name": "DTAC-RCADYIDC-Thailand-01-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-RCADYIDC-DTAC.ovpn"
+      }
+,
+{
+         "name": "TRUE-RCADYIDC-Thailand-01-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-RCADYIDC-TRUE.ovpn"
       }
 
 
    ],
 "message":"
 🧡พบการอัปเดตใหม่คะ
--วันที่ทำการ20/พ.ค.2566
+-วันที่ทำการ25/พ.ค.2566
 
 🔴ระบบได้ตรวจสอบ
--แก้ไขความเร็วเซิร์ฟเวอร์
--INET-Thailand(ใช้เล่นเกม)(ปิงต่ำ)
+-เพิ่มเซิร์ฟเวอร์
+-VIP-RCADYIDC-TH-VIP(เช่า)
 💻ทางเราได้ทำการแก้ไขให้แล้วนะคะ
 
+▶สนใจติดต่อเช่าได้ที่
+https://m.me/ANOFZX
+
+https://www.facebook.com/profile.php?id=100026386852430
+
+❌ได้ทั้งสองช่องทางมีแอดมินค่อยตอบนะครับ
 
 🚀รายละเอียดเซิร์ฟเวอร์
+-VIP-RCADYIDC-TH-VIP(เช่า)
 -OVH-Singapore-SG-FREE(ฟรี)
 -GAMING-Thailand-TH-FREE(ฟรี)
 -INET-Thailand-TH-FREE(ฟรี)
 
 📊สถานะการทำงาน
+-VIP-RCADYIDC-TH-VIP
+(ใช้เล่นเกม)(ปิงต่ำ)
 -OVH-Singapore-SG-FREE
 (ใช้งานทั่วไป+ดูหนัง+ดาว์นโหลด)(ปิงกลาง)
 -GAMING-Thailand-TH-FREE
@@ -92,5 +116,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":31
+   "version":32
 }

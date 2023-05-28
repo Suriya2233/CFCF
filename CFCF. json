@@ -4,97 +4,47 @@
 
 
 {
-         "name": "AIS-GAMING-Thailand-01-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-A.ovpn"
-      }
-,
-{
-         "name": "DTAC-GAMING-Thailand-01-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-D.ovpn"
-      }
-,
-{
-         "name": "TRUE-GAMING-Thailand-01-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-T.ovpn"
-      }
-,
-{
-         "name": "TRUE-RCADYIDC-Thailand-01-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/INET-T.ovpn"
-      }
-,
-{
-         "name": "AIS-RCADYIDC-Thailand-01-TH-VIP",
+         "name": "AIS-RCADYIDC-Thailand-TH-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-RCADYIDC-AIS.ovpn"
       }
 ,
 {
-         "name": "DTAC-RCADYIDC-Thailand-01-TH-VIP",
+         "name": "DTAC-RCADYIDC-Thailand-TH-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-RCADYIDC-DTAC.ovpn"
       }
 ,
 {
-         "name": "TRUE-RCADYIDC-Thailand-01-TH-VIP",
+         "name": "TRUE-RCADYIDC-Thailand-TH-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-RCADYIDC-TRUE.ovpn"
       }
 ,
 {
-         "name": "AIS-OPENLAND-Thailand-01-TH-FREE",
+         "name": "AIS-GAME-Thailand-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-A.ovpn"
+      }
+,
+{
+         "name": "DTAC-GAME-Thailand-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-D.ovpn"
+      } 
+,
+{
+         "name": "TRUE-GAME-Thailand-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-T.ovpn"
+      }
+,
+{
+         "name": "AIS-OPENLAND-Thailand-TH-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-a.ovpn"
       }
 ,
 {
-         "name": "DTAC-OPENLAND-Thailand-01-TH-FREE",
+         "name": "DTAC-OPENLAND-Thailand-TH-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-d.ovpn"
-      }
+      } 
 ,
 {
-         "name": "TRUE-OPENLAND-Thailand-01-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
-      }
-,
-{
-         "name": "AIS-OPENLAND-Thailand-02-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-OPENLAND-Thailand-02-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-OPENLAND-Thailand-02-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
-      }
-,
-{
-         "name": "AIS-OPENLAND-Thailand-03-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-OPENLAND-Thailand-03-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-OPENLAND-Thailand-03-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
-      }
-,
-{
-         "name": "AIS-OPENLAND-Thailand-04-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-OPENLAND-Thailand-04-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-OPENLAND-Thailand-04-TH-FREE",
+         "name": "TRUE-OPENLAND-Thailand-TH-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
       }
 
@@ -127,5 +77,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":33
+   "version":34
 }

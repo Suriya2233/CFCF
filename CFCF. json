@@ -4,36 +4,6 @@
 
 
 {
-         "name": "AIS-OVH-Singapore-01-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-OVH-Singapore-01-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-OVH-Singapore-01-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-t.ovpn"
-      }
-,
-{
-         "name": "AIS-OVH-Singapore-02-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-a.ovpn"
-      }
-,
-{
-         "name": "DTAC-OVH-Singapore-02-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-d.ovpn"
-      }
-,
-{
-         "name": "TRUE-OVH-Singapore-02-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/ovh-sg-t.ovpn"
-      }
-,
-{
          "name": "AIS-GAMING-Thailand-01-TH-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-A.ovpn"
       }
@@ -46,16 +16,6 @@
 {
          "name": "TRUE-GAMING-Thailand-01-TH-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/GAMING-T.ovpn"
-      }
-,
-{
-         "name": "AIS-INET-Thailand-01-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/INET-A.ovpn"
-      }
-,
-{
-         "name": "DTAC-INET-Thailand-01-TH-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/INET-D.ovpn"
       }
 ,
 {
@@ -77,44 +37,95 @@
          "name": "TRUE-RCADYIDC-Thailand-01-TH-VIP",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/VIP-RCADYIDC-TRUE.ovpn"
       }
+,
+{
+         "name": "AIS-OPENLAND-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OPENLAND-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OPENLAND-Thailand-01-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
+      }
+,
+{
+         "name": "AIS-OPENLAND-Thailand-02-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OPENLAND-Thailand-02-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OPENLAND-Thailand-02-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
+      }
+,
+{
+         "name": "AIS-OPENLAND-Thailand-03-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OPENLAND-Thailand-03-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OPENLAND-Thailand-03-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
+      }
+,
+{
+         "name": "AIS-OPENLAND-Thailand-04-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-a.ovpn"
+      }
+,
+{
+         "name": "DTAC-OPENLAND-Thailand-04-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-d.ovpn"
+      }
+,
+{
+         "name": "TRUE-OPENLAND-Thailand-04-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
+      }
 
 
    ],
 "message":"
 🧡พบการอัปเดตใหม่คะ
--วันที่ทำการ25/พ.ค.2566
+-วันที่ทำการ28/พ.ค.2566
 
 🔴ระบบได้ตรวจสอบ
 -เพิ่มเซิร์ฟเวอร์
--VIP-RCADYIDC-TH-VIP(เช่า)
+-OPENLAND-Thailand-TH-FREE(ฟรี)
 💻ทางเราได้ทำการแก้ไขให้แล้วนะคะ
 
-▶สนใจติดต่อเช่าได้ที่
-https://m.me/ANOFZX
-
-https://www.facebook.com/profile.php?id=100026386852430
-
-❌ได้ทั้งสองช่องทางมีแอดมินค่อยตอบนะครับ
 
 🚀รายละเอียดเซิร์ฟเวอร์
 -VIP-RCADYIDC-TH-VIP(เช่า)
--OVH-Singapore-SG-FREE(ฟรี)
 -GAMING-Thailand-TH-FREE(ฟรี)
--INET-Thailand-TH-FREE(ฟรี)
+-OPENLAND-Thailand-TH-FREE(ฟรี)
 
 📊สถานะการทำงาน
 -VIP-RCADYIDC-TH-VIP
 (ใช้เล่นเกม)(ปิงต่ำ)
--OVH-Singapore-SG-FREE
-(ใช้งานทั่วไป+ดูหนัง+ดาว์นโหลด)(ปิงกลาง)
 -GAMING-Thailand-TH-FREE
 (ใช้เล่นเกม)(ปิงต่ำ)
--INET-Thailand-TH-FREE
-(ใช้เล่นเกม)(ปิงต่ำ)
+-OPENLAND-Thailand-TH-FREE(ฟรี)
+(ใช้งานทั่วไป)(ปิงต่ำ)
 
 🧡ขอให้สนุกกับการใช้งานนะคะ
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":32
+   "version":33
 }

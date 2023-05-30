@@ -47,16 +47,31 @@
          "name": "TRUE-OPENLAND-Thailand-TH-FREE",
          "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/free-t.ovpn"
       }
+,
+{
+         "name": "AIS-CONTABO-Singapore-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/CONTABO-A.ovpn"
+      }
+,
+{
+         "name": "DTAC-CONTABO-Singapore-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/CONTABO-D.ovpn"
+      } 
+,
+{
+         "name": "TRUE-CONTABO-Singapore-SG-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/CONTABO-T.ovpn"
+      }
 
 
    ],
 "message":"
 🧡พบการอัปเดตใหม่คะ
--วันที่ทำการ28/พ.ค.2566
+-วันที่ทำการ30/พ.ค.2566
 
 🔴ระบบได้ตรวจสอบ
 -เพิ่มเซิร์ฟเวอร์
--OPENLAND-Thailand-TH-FREE(ฟรี)
+-CONTABO-Singapore-SG-FREE(ฟรี)
 💻ทางเราได้ทำการแก้ไขให้แล้วนะคะ
 
 
@@ -64,6 +79,7 @@
 -VIP-RCADYIDC-TH-VIP(เช่า)
 -GAMING-Thailand-TH-FREE(ฟรี)
 -OPENLAND-Thailand-TH-FREE(ฟรี)
+-CONTABO-Singapore-SG-FREE(ฟรี)
 
 📊สถานะการทำงาน
 -VIP-RCADYIDC-TH-VIP
@@ -72,10 +88,12 @@
 (ใช้เล่นเกม)(ปิงต่ำ)
 -OPENLAND-Thailand-TH-FREE(ฟรี)
 (ใช้งานทั่วไป)(ปิงต่ำ)
+-CONTABO-Singapore-SG-FREE(ฟรี)
+(ใช้ดาว์นโหลด+ใช้งานทั่วไป)(ปิงกลาง)
 
 🧡ขอให้สนุกกับการใช้งานนะคะ
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":34
+   "version":35
 }

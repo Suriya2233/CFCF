@@ -49,30 +49,32 @@
       }
 ,
 {
-         "name": "AIS-CONTABO-Singapore-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/CONTABO-A.ovpn"
+         "name": "AIS-XVER-Thailand-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/XVER-A.ovpn"
       }
 ,
 {
-         "name": "DTAC-CONTABO-Singapore-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/CONTABO-D.ovpn"
+         "name": "DTAC-XVER-Thailand-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/XVER-D.ovpn"
       } 
 ,
 {
-         "name": "TRUE-CONTABO-Singapore-SG-FREE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/CONTABO-T.ovpn"
+         "name": "TRUE-XVER-Thailand-TH-FREE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/CFCF/main/XVER-T.ovpn"
       }
 
 
    ],
 "message":"
 🧡พบการอัปเดตใหม่คะ
--วันที่ทำการ30/พ.ค.2566
+-วันที่ทำการ05/ม.ย./2023
 
 🔴ระบบได้ตรวจสอบ
 -เพิ่มเซิร์ฟเวอร์
--CONTABO-Singapore-SG-FREE(ฟรี)
-💻ทางเราได้ทำการแก้ไขให้แล้วนะคะ
+-XVER-Thailand-TH-FREE(ฟรี)
+
+💻เซิร์ฟเวอร์ที่ปรับปรุง
+-CONTABO-Singapore-SG-FREE(ฟรี)(ปรับปรุง)
 
 
 🚀รายละเอียดเซิร์ฟเวอร์
@@ -88,6 +90,8 @@
 (ใช้เล่นเกม)(ปิงต่ำ)
 -OPENLAND-Thailand-TH-FREE(ฟรี)
 (ใช้งานทั่วไป)(ปิงต่ำ)
+-XVER-Thailand-TH-FREE(ฟรี)
+(ใช้งานทั่วไป)(ปิงต่ำ)
 -CONTABO-Singapore-SG-FREE(ฟรี)
 (ใช้ดาว์นโหลด+ใช้งานทั่วไป)(ปิงกลาง)
 
@@ -95,5 +99,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":35
+   "version":36
 }
